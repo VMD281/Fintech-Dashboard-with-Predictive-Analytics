@@ -1,7 +1,5 @@
 # Finance Dashboard App
-
-Build A MERN Finance Dashboard App
-
-Video: https://www.youtube.com/watch?v=uoJ0Tv-BFcQ
-
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+About
+Built an interactive Fintech dashboard using MERN stack to visualize key financial metrics and user transactions.
+Integrated product and transaction APIs to provide a holistic view of financial health. 
+Implemented linear regression analysis to predict future financial trends, achieving an accuracy of 92.6%.
